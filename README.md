@@ -1,18 +1,64 @@
-# 💫 About Me:
-"👋 Hello, World! I'm Prasad, a passionate Web Developer on a journey of coding and creativity. 🚀<br><br>🌟 Exploring the realms of Python, Java and many more of them, I'm dedicated to crafting digital solutions that make life simpler and more efficient.<br><br>🎓 With a background in Technology , I'm constantly seeking opportunities to learn and grow in this ever-evolving tech landscape.<br><br>🌐 When I'm not immersed in lines of code, you can find me making films and cinematic visual content , doing music composition, or even reading books in a park by the river.<br><br>🔭 I believe in the power of collaboration, so let's connect and collaborate on exciting projects. Feel free to reach out.<br><br>🌈 Join me as I turn ideas into innovation, one commit at a time. Together, let's shape the future through technology! 💡🖥️"<br><br>
+# About Me
 
+Hi, I'm **Prasad Alai** — a **Software Engineer** specializing in Full Stack, Multilingual AI Systems, and Distributed Microservices.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prasad-alai-52879a255) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=321prasad0058&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=321prasad0058&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=321prasad0058&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🚀 Currently engineering SaaS AI platforms and autonomous agent workbenches at **FlexiLoans**.  
+🎓 B.E. in Information Technology from **Don Bosco Institute of Technology, Mumbai**.  
+💡 Passionate about building LLM-orchestrated systems, real-time voice pipelines, and high-performance backends.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=321prasad0058&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ What I'm Working On:
+- 🤖 Building enterprise AI Agent platforms with **Model Context Protocol (MCP)** and **Claude Code**.
+- 🎙️ Architecting multilingual voice AI agents for regional fintech onboarding.
+- ⚡ Solving complex algorithmic challenges (**400+ problems solved** | **AIR 241 @ Codekaze '24**).
+
+---
+
+# 💻 Tech Stack
+
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases, Infrastructure & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 🚀 Highlighted Projects
+
+* **VANA** | *Go, React, PostgreSQL, Groq, Gemini, Docker*  
+  Dual-LLM orchestration platform delivering clinical mental health insights at sub-second latency with context-aware safety guardrails.
+
+* **TRANSCRIBO** | *Django, React, OpenAI Whisper, PyAnnote*  
+  Speech-to-Text transcription and speaker diarization engine achieving 84% real-time accuracy for corporate board meetings.
+
+---
+
+# 🌐 Socials & Profiles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasad-alai-52879a255)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Prasad_2472)
+[![Blog](https://img.shields.io/badge/Blog-Prasad's%20Dev%20Fable-212121?style=for-the-badge&logo=hashnode&logoColor=white)](#)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=321prasad0058&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+</p>
