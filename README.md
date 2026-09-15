@@ -2,16 +2,16 @@
 
 Hi, I'm **Prasad Alai** — a **Software Engineer** specializing in Full Stack, Multilingual AI Systems, and Distributed Microservices.
 
-🚀 Currently engineering SaaS AI platforms and autonomous agent workbenches at **FlexiLoans**.  
-🎓 B.E. in Information Technology from **Don Bosco Institute of Technology, Mumbai**.  
-💡 Passionate about building LLM-orchestrated systems, real-time voice pipelines, and high-performance backends.
+- Currently engineering SaaS AI platforms and autonomous agent workbenches at **FlexiLoans**.  
+- B.E. in Information Technology from **Don Bosco Institute of Technology, Mumbai**.  
+- Passionate about building LLM-orchestrated systems, real-time voice pipelines, and high-performance backends.
 
 ---
 
-### 🛠️ What I'm Working On:
-- 🤖 Building enterprise AI Agent platforms with **Model Context Protocol (MCP)** and **Claude Code**.
-- 🎙️ Architecting multilingual voice AI agents for regional fintech onboarding.
-- ⚡ Solving complex algorithmic challenges (**400+ problems solved** | **AIR 241 @ Codekaze '24**).
+###  What I'm Working On:
+-  Building enterprise AI Agent platforms with **Model Context Protocol (MCP)** and **Claude Code**.
+-  Architecting multilingual voice AI agents for regional fintech onboarding.
+-  Solving complex algorithmic challenges (**400+ problems solved** | **AIR 241 @ Codekaze '24**).
 
 ---
 
@@ -39,7 +39,7 @@ Hi, I'm **Prasad Alai** — a **Software Engineer** specializing in Full Stack, 
 
 ---
 
-# 🚀 Highlighted Projects
+# Highlighted Projects
 
 * **VANA** | *Go, React, PostgreSQL, Groq, Gemini, Docker*  
   Dual-LLM orchestration platform delivering clinical mental health insights at sub-second latency with context-aware safety guardrails.
@@ -56,9 +56,3 @@ Hi, I'm **Prasad Alai** — a **Software Engineer** specializing in Full Stack, 
 [![Blog](https://img.shields.io/badge/Blog-Prasad's%20Dev%20Fable-212121?style=for-the-badge&logo=hashnode&logoColor=white)](#)
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=321prasad0058&theme=nightowl&hide_border=false" alt="GitHub Streak" />
-</p>
