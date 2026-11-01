@@ -42,7 +42,7 @@ Hi, I'm **Prasad Alai** — a **Software Engineer** specializing in Full Stack, 
 # Highlighted Projects
 
 * **[VANA](https://github.com/fl-prasad-alai/VANA)** | *Go, React, PostgreSQL, Groq, Gemini, Docker*  
-  Dual-LLM orchestration platform delivering clinical mental health insights at sub-second latency with context-aware safety guardrails.
+  Dual-LLM orchestration platform delivering clinical mental health insights at sub-second latency with context-aware safety guardrails. [Live ↗](https://vana-mind.vercel.app)
 
 * **[SahiCar](https://github.com/321prasad0058/SahiCar)** | *React, TypeScript, Vite, Three.js, GSAP, Firebase*  
   India's free, unbiased car advisor: ranks 142 models and 1,224 variants by fit, safety and value, with interactive 3D models and an EMI calculator comparing 35 lenders. [Live ↗](https://sahicar-in.web.app)
