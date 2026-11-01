@@ -41,13 +41,17 @@ Hi, I'm **Prasad Alai** — a **Software Engineer** specializing in Full Stack, 
 
 # Highlighted Projects
 
-* **VANA** | *Go, React, PostgreSQL, Groq, Gemini, Docker*  
+* **[VANA](https://github.com/fl-prasad-alai/VANA)** | *Go, React, PostgreSQL, Groq, Gemini, Docker*  
   Dual-LLM orchestration platform delivering clinical mental health insights at sub-second latency with context-aware safety guardrails.
 
-* **TRANSCRIBO** | *Django, React, OpenAI Whisper, PyAnnote*  
-  Speech-to-Text transcription and speaker diarization engine achieving 84% real-time accuracy for corporate board meetings.
+* **[SahiCar](https://github.com/321prasad0058/SahiCar)** | *React, TypeScript, Vite, Three.js, GSAP, Firebase*  
+  India's free, unbiased car advisor: ranks 142 models and 1,224 variants by fit, safety and value, with interactive 3D models and an EMI calculator comparing 35 lenders. [Live ↗](https://sahicar-in.web.app)
 
----
+* **[KAVACH](https://github.com/321prasad0058/kavach-compliance-copilot)** | *Angular, NestJS, Snowflake Cortex, SQL, Docker*  
+  Risk, fraud and compliance copilot for NBFCs: plain-English questions in, cited and audit-ready findings out, with maker-checker sign-off and a hash-chained audit log. [Live ↗](https://kavach-compliance-copilot.vercel.app)
+
+* **[TRANSCRIBO](https://github.com/321prasad0058/transcribo)** | *Django, React, OpenAI Whisper, PyAnnote*  
+  Speech-to-Text transcription and speaker diarization engine achieving 84% real-time accuracy for corporate board meetings.
 
 # 🌐 Socials & Profiles
 
